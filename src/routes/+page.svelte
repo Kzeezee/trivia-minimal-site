@@ -1,5 +1,5 @@
 <script>
-    
+    import "../app.css";
 </script>
 
 <div class="flex items-center h-screen justify-center">
