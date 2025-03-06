@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.butan {
+    @apply btn btn-primary btn-xl w-80 m-2 bg-red-200 text-black;
+}
+
+.question-row {
+    @apply flex items-center justify-center pb-4;
+}
+

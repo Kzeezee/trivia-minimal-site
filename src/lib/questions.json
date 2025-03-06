@@ -1,0 +1,563 @@
+[
+    {
+      "question": "What do you call the meal you eat on New Year's Day?",
+      "options": [
+        "orizume",
+        "jūbako ryōri",
+        "shōjin ryōri",
+        "osechi ryōri"
+      ],
+      "answer": "osechi ryōri"
+    },
+    {
+      "question": "What do you call the soup with mochi rice cakes that you eat on New Year's Day?",
+      "options": [
+        "ozōni",
+        "oshiruko",
+        "botamochi",
+        "agemochi"
+      ],
+      "answer": "ozōni"
+    },
+    {
+      "question": "What is mochi made of?",
+      "options": [
+        "rice",
+        "potato",
+        "soybeans",
+        "wheat"
+      ],
+      "answer": "rice"
+    },
+    {
+      "question": "What is soy sauce made of?",
+      "options": [
+        "meat",
+        "fish",
+        "rice",
+        "soybeans"
+      ],
+      "answer": "soybeans"
+    },
+    {
+      "question": "What is miso made of?",
+      "options": [
+        "meat",
+        "fish",
+        "rice",
+        "soybeans"
+      ],
+      "answer": "soybeans"
+    },
+    {
+      "question": "What are takuan pickles made of?",
+      "options": [
+        "lemon",
+        "apple",
+        "daikon raddish",
+        "cucumber"
+      ],
+      "answer": "daikon raddish"
+    },
+    {
+      "question": "What is kamaboko made of?",
+      "options": [
+        "rice",
+        "fish",
+        "milk",
+        "soybeans"
+      ],
+      "answer": "fish"
+    },
+    {
+      "question": "What does the word agari that you hear in a sushi restaurant refer to?",
+      "options": [
+        "tea",
+        "miso soup",
+        "ginger",
+        "soy sauce"
+      ],
+      "answer": "tea"
+    },
+    {
+      "question": "What does the word murasaki that you hear in a sushi restaurant refer to?",
+      "options": [
+        "salt",
+        "miso",
+        "soy sauce",
+        "ginger"
+      ],
+      "answer": "soy sauce"
+    },
+    {
+      "question": "Which vegetable is in kappa-maki sushi?",
+      "options": [
+        "cucumber",
+        "carrot",
+        "Daikon raddish",
+        "avocado"
+      ],
+      "answer": "cucumber"
+    },
+    {
+      "question": "What is in tekka-maki sushi?",
+      "options": [
+        "tuna",
+        "pickles",
+        "cucumber",
+        "nattō"
+      ],
+      "answer": "tuna"
+    },
+    {
+      "question": "When you have sushi, which fish does the word toro usually refer to?",
+      "options": [
+        "sea bream",
+        "salmon",
+        "tuna",
+        "eel"
+      ],
+      "answer": "tuna"
+    },
+    {
+      "question": "What is the name of the sushi that has uni sea urchin or ikura salmon roe on top of a bite-sized portion of rice and is wrapped with nori seaweed?",
+      "options": [
+        "shiro-maki [castle roll]",
+        "gunkan-maki [warship roll]",
+        "taiko-maki [drum roll]",
+        "taihō-maki [cannon roll]"
+      ],
+      "answer": "gunkan-maki [warship roll]"
+    },
+    {
+      "question": "What do you call the negi green onion or wasabi horseradish that are served with soba noodles?",
+      "options": [
+        "yakumi",
+        "tenkabutsu",
+        "otōshi",
+        "tsukemono"
+      ],
+      "answer": "yakumi"
+    },
+    {
+      "question": "The hot water used for cooking soba noodles is mixed with tsuyu dipping sauce to make a tasty broth, which you drink after you finish eating soba. What do you call this water?",
+      "options": [
+        "sobajiru",
+        "sobamizu",
+        "sobacha",
+        "sobayu"
+      ],
+      "answer": "sobayu"
+    },
+    {
+      "question": "What does kitsune [fox] udon noodles contain as one of its ingredients?",
+      "options": [
+        "chicken meat",
+        "fox meat",
+        "steamed fish paste",
+        "deep-fried thin tofu"
+      ],
+      "answer": "deep-fried thin tofu"
+    },
+    {
+      "question": "What are udon noodles with mochi called?",
+      "options": [
+        "chikara udon",
+        "shiro udon",
+        "sumō udon",
+        "kagami udon"
+      ],
+      "answer": "chikara udon"
+    },
+    {
+      "question": "Which area of Japan is the home of Sanuki udon?",
+      "options": [
+        "Nagasaki Prefecture",
+        "Kagawa Prefecture",
+        "Ibaraki Prefecture",
+        "Akita Prefecture"
+      ],
+      "answer": "Kagawa Prefecture"
+    },
+    {
+      "question": "What other expression is used to describe ramen noodles?",
+      "options": [
+        "chūka udon",
+        "chūgoku soba",
+        "chūka soba",
+        "chūgoku udon"
+      ],
+      "answer": "chūka soba"
+    },
+    {
+      "question": "What do you call ramen noodles that use soup made from pork bones?",
+      "options": [
+        "tonjiru ramen",
+        "butabara ramen",
+        "tonkotsu ramen",
+        "butabone ramen"
+      ],
+      "answer": "tonkotsu ramen"
+    },
+    {
+      "question": "In Japan, what do people eat on December 31st?",
+      "options": [
+        "soba [buckwheat noodle]",
+        "mochi [rice cake]",
+        "sushi",
+        "okayu [rice porridge]"
+      ],
+      "answer": "soba [buckwheat noodle]"
+    },
+    {
+      "question": "What are the two main ingredients of oyako-don [parent and child bowl]?",
+      "options": [
+        "mutton and lamb meat",
+        "chicken and egg",
+        "tuna and steamed fish paste",
+        "carrot and daikon radish"
+      ],
+      "answer": "chicken and egg"
+    },
+    {
+      "question": "In Japan, what do people eat on Doyō no Ushi no Hi [Day of the Ox in midsummer]?",
+      "options": [
+        "eel",
+        "beef",
+        "soba noodles",
+        "watermelon"
+      ],
+      "answer": "eel"
+    },
+    {
+      "question": "Which sweets do people eat on Kodomo no Hi [Children's Day] on May 5th?",
+      "options": [
+        "kusa mochi",
+        "mame mochi",
+        "kashiwa mochi",
+        "sakura mochi"
+      ],
+      "answer": "kashiwa mochi"
+    },
+    {
+      "question": "What is the box lunch called that has white rice with a umeboshi pickled plum in the center?",
+      "options": [
+        "hinomaru bentō [rising sun box lunch]",
+        "nihon bentō [Japan box lunch]",
+        "hata bentō [flag box lunch]",
+        "kōhaku bentō [red and white box lunch]"
+      ],
+      "answer": "hinomaru bentō [rising sun box lunch]"
+    },
+    {
+      "question": "What is the box lunch called that has white rice with a variety of side dishes?",
+      "options": [
+        "yamanouchi bentō",
+        "makunouchi bentō",
+        "dohyōnouchi bentō",
+        "hananouchi bentō"
+      ],
+      "answer": "makunouchi bentō"
+    },
+    {
+      "question": "What do you put on your hands when you make onigiri rice balls?",
+      "options": [
+        "salt",
+        "sugar",
+        "pepper",
+        "sesame oil"
+      ],
+      "answer": "salt"
+    },
+    {
+      "question": "What do you call the glutinous rice cooked with azuki beans that you eat on festive occasions?",
+      "options": [
+        "kokuhan",
+        "chahan",
+        "sekihan",
+        "ryokuhan"
+      ],
+      "answer": "sekihan"
+    },
+    {
+      "question": "What do you call the dish that you dip thinly sliced meat in boiling water for a few seconds before you eat?",
+      "options": [
+        "basha basha",
+        "bushu bushu",
+        "shobo shobo",
+        "shabu shabu"
+      ],
+      "answer": "shabu shabu"
+    },
+    {
+      "question": "When you eat sukiyaki, in what do you dip it before you eat?",
+      "options": [
+        "vinegar",
+        "milk",
+        "miso",
+        "raw egg"
+      ],
+      "answer": "raw egg"
+    },
+    {
+      "question": "What do you call the kind of tempura in which several ingredients such as onions and shrimp are fried together?",
+      "options": [
+        "maruage",
+        "kakiage",
+        "yoseage",
+        "matomeage"
+      ],
+      "answer": "kakiage"
+    },
+      {
+      "question": "What is in Ishikari-nabe hot pot that is the specialty of Hokkaido?",
+      "options": [
+        "squid",
+        "crab",
+        "sea urchin",
+        "salmon"
+      ],
+      "answer": "salmon"
+    },
+    {
+      "question": "What is the Tokyo specialty dish of flour-based batter with vegetables that is cooked on a hot plate?",
+      "options": [
+        "modanyaki",
+        "okonomiyaki",
+        "monjayaki",
+        "karumeyaki"
+      ],
+      "answer": "monjayaki"
+    },
+    {
+      "question": "In Nagoya, what do you put on tonkatsu pork cutlets instead of tonkatsu sauce?",
+      "options": [
+        "miso sause",
+        "soy sauce",
+        "ketchup sause",
+        "mayonnaise sause"
+      ],
+      "answer": "miso sause"
+    },
+    {
+      "question": "What do you call the Nagoya specialty dish that features small pieces of grilled eel on white rice?",
+      "options": [
+        "himatsubushi",
+        "hitsumabushi",
+        "hitsubumashi",
+        "himabutsushi"
+      ],
+      "answer": "hitsumabushi"
+    },
+    {
+      "question": "What is the term used in Osaka for Osaka-style specialties such as okonomiyaki savory pancakes and takoyaki octopus balls?",
+      "options": [
+        "konamon",
+        "shirumon",
+        "yakimon",
+        "sōsumon"
+      ],
+      "answer": "konamon"
+    },
+    {
+      "question": "What is the name of the manufacturer of the sauce that is usually used for Hiroshima-style okonomiyaki savory pancakes?",
+      "options": [
+        "Oni Sauce",
+        "Kappa Sauce",
+        "Tengu Sauce",
+        "Otafuku Sauce"
+      ],
+      "answer": "Otafuku Sauce"
+    },
+    {
+      "question": "What is the Akita Prefecture specialty food of pounded rice wrapped around a skewer and grilled over a hearth?",
+      "options": [
+        "damatanpo",
+        "kiridango",
+        "kiritanpo",
+        "damadango"
+      ],
+      "answer": "kiritanpo"
+    },
+    {
+      "question": "What do you call the dish that is originally from Hokkaido and is mutton grilled on a griddle?",
+      "options": [
+        "Caesar",
+        "Genghis Khan",
+        "Napoleon",
+        "Alexander"
+      ],
+      "answer": "Genghis Khan"
+    },
+    {
+      "question": "Which is the famous ekiben [box lunch sold at train stations] of Hokkaido?",
+      "options": [
+        "ika meshi [squid rice]",
+        "asari meshi [short-necked clam rice]",
+        "maguro meshi [tuna rice]",
+        "hirame meshi [flounder rice]"
+      ],
+      "answer": "ika meshi [squid rice]"
+    },
+    {
+      "question": "What is the name of the food made from soymilk for which Kyoto and Nikko famous?",
+      "options": [
+        "yuba",
+        "nattō",
+        "hanpen",
+        "aburaage"
+      ],
+      "answer": "yuba"
+    },
+    {
+      "question": "Which town is famous for producing nattō fermented soybeans?",
+      "options": [
+        "Takasaki",
+        "Mito",
+        "Kumamoto",
+        "Kitakata"
+      ],
+      "answer": "Mito"
+    },
+    {
+      "question": "Which town is famous for producing eel?",
+      "options": [
+        "Hamamatsu",
+        "Hakodate",
+        "Sendai",
+        "Hukuoka"
+      ],
+      "answer": "Hamamatsu"
+    },
+    {
+      "question": "Which dish is not Okinawan cuisine?",
+      "options": [
+        "rafutē",
+        "mentaiko",
+        "gōya chanpurū",
+        "taco rice"
+      ],
+      "answer": "mentaiko"
+    },
+    {
+      "question": "Which of the following foods did not exist during the Edo period?",
+      "options": [
+        "sushi",
+        "tempura",
+        "gyūdon",
+        "gyūdon"
+      ],
+      "answer": "gyūdon"
+    },
+    {
+      "question": "Which of the following is not a food associated with autumn in Japan?",
+      "options": [
+        "strawberries",
+        "mushrooms",
+        "chestnuts",
+        "pears"
+      ],
+      "answer": "strawberries"
+    },
+    {
+      "question": "What is the name of the fish and vegetable Hokkaido specialty that is cooked on a teppan (Japanese griddle)?",
+      "options": [
+        "Tonton'yaki",
+        "Dondon'yaki",
+        "Janjan'yaki",
+        "Chanchan'yaki"
+      ],
+      "answer": "Chanchan'yaki"
+    },
+    {
+      "question": "What is the name of the pork and egg Kansai specialty that is cooked on a teppan (Japanese griddle)?",
+      "options": [
+        "Sanpēyaki",
+        "Tonpēyaki",
+        "Shunpēyaki",
+        "Konpēyaki"
+      ],
+      "answer": "Tonpēyaki"
+    },
+    {
+      "question": "What is the traditional home cooking in Kyoto called?",
+      "options": [
+        "obanzai",
+        "omanzai",
+        "obonzai",
+        "omonzai"
+      ],
+      "answer": "obanzai"
+    },
+    {
+      "question": "Which of the following is the characteristic sause for Chicken Nanban?",
+      "options": [
+        "salsa",
+        "tartar sauce",
+        "Worcester sauce",
+        "meat sauce"
+      ],
+      "answer": "tartar sauce"
+    },
+    {
+      "question": "What do you call a box lunch decorated to look like an animal or a character in anime?",
+      "options": [
+        "Kyaraben",
+        "Aniben",
+        "Dezaben",
+        "Noriben"
+      ],
+      "answer": "Kyaraben"
+    },
+    {
+      "question": "What kind of meat is used in Sakura Nabe (Hotpot)?",
+      "options": [
+        "mutton",
+        "frong meat",
+        "horsemeat",
+        "goat meat"
+      ],
+      "answer": "horsemeat"
+    },
+    {
+      "question": "What kind of meat is used in Botan Nabe (Peony Hotpot)?",
+      "options": [
+        "venison",
+        "wild boar meat",
+        "bear meat",
+        "rabbit meat"
+      ],
+      "answer": "wild boar meat"
+    },
+    {
+      "question": "What is the name of the specialty of Nagasaki that consists of spaghetti and a deep-fried pork cutlet over a bed of rice with demiglace sauce?",
+      "options": [
+        "Toruko Raisu (Turkey Rice)",
+        "Ejiputo Raisu（Egypt Rice)",
+        "Monako Raisu (Monaco Rice)",
+        "Kenia Raisu (Kenya Rice)"
+      ],
+      "answer": "Toruko Raisu (Turkey Rice)"
+    },
+    {
+      "question": "Which of the following is a speciality seaweed from Okinawa?",
+      "options": [
+        "umi ichigo (sea strawberry)",
+        "umi ringo (sea apple)",
+        "umi suika (sea watermelon)",
+        "umi budō (sea grape)"
+      ],
+      "answer": "umi budō (sea grape)"
+    },
+    {
+      "question": "What is the name of the specialized cuisine that uses no meat served in Buddhist temples?",
+      "options": [
+        "bukkyō ryōri",
+        "shōjin ryōri",
+        "binbō ryōri",
+        "yasai ryōri"
+      ],
+      "answer": "shōjin ryōri"
+    }
+  ]
+  
