@@ -1,6 +1,5 @@
 <script>
-    import "$lib/app.css";
-	let { children } = $props();
-</script>
-
-{@render children()}
+    let { children } = $props();
+    import "../app.css";
+  </script>
+  {@render children()}
