@@ -31,7 +31,7 @@
 	pickQuestion();
 </script>
 
-<div class="flex items-center h-screen justify-center">
+<div class="flex items-center h-screen justify-center bg-gray-950">
 	<div class="text-center">
 		<h1 class="text-4xl pb-8 text-red-300">JCC Food Festival Trivia</h1>
 		<h2 class="text-2xl text-slate-100">Question: {question}</h2>
